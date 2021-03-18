@@ -1,0 +1,14 @@
+{
+  "appId": "io.ionic.starter",
+  "appName": "Camera",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "www",
+  "linuxAndroidStudioPath": "/path/to/missing/file/studio.sh",
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 0
+    }
+  },
+  "cordova": {}
+}
